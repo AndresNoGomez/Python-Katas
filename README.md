@@ -1,26 +1,28 @@
-# Katas en Python 
+# Python Katas
 
-Este repositorio contiene una colección de ejercicios resueltos en Python, conocidos como *katas*, pensados para practicar programación funcional, manejo de errores, estructuras básicas y programación orientada a objetos.
+This repository contains a collection of solved Python exercises, known as *katas*, designed to practice functional programming, error handling, basic structures, and object-oriented programming.
 
-## Contenido
+## Contents
 
-Los ejercicios cubren temas como:
+The exercises cover topics such as:
 
-- Uso de `map`, `filter` y `reduce`
-- Funciones lambda
-- Recursividad
-- Manejo de excepciones
-- Programación orientada a objetos
-- Manipulación de listas, cadenas y diccionarios
-- Entrada de datos por consola
-- Casos prácticos y funciones reales
+- Use of `map`, `filter`, and `reduce`
+- Lambda functions
+- Recursion
+- Error handling
+- Object-oriented programming
+- Manipulation of lists, strings, and dictionaries
+- Console input
+- Practical cases and real-world functions
 
-## Archivos incluidos
+## Included Files
 
-- `Project3.py`: archivo con todos los ejercicios resueltos y comentados.
-- `Enunciados.pdf`: documento en PDF con los enunciados de todos los ejercicios propuestos.
+- `Project.py`: file containing all the solved and commented exercises.
+- `Enunciados.pdf`: PDF document with all the proposed exercise statements.
 
-## Requisitos
+## Requirements
 
 - Python 3.x
-- No se requieren librerías externas (solo `functools`)
+- No external libraries required (only `functools`)
+
+**Author:** Andrés Nó Gómez.
